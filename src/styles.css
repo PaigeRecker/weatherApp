@@ -1,0 +1,31 @@
+.container {
+  padding-top: 30px;
+}
+.date-text {
+  color: red;
+}
+.hometown {
+  font-weight: 700;
+  font-size: xx-large;
+}
+hr {
+  margin: 20px;
+  border: dashed #a0dbdb;
+  border-width: 2px;
+  border-color: #132743;
+}
+.forecast {
+  text-align: center;
+}
+.img {
+  align-content: center;
+}
+*:hover {
+  outline: 1px blue solid;
+}
+img {
+  text-align: center;
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+}
